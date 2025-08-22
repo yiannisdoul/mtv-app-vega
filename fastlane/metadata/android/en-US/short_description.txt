@@ -1,1 +1,1 @@
-Android app for streaming media.
+StreamFlix - Your ultimate streaming companion.

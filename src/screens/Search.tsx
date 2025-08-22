@@ -249,7 +249,7 @@ const Search = () => {
               <Ionicons name="search" size={32} color={primary} />
             </View>
             <Text className="text-white/70 text-base text-center">
-              Search for your favorite anime
+              Search for your favorite content
             </Text>
             <Text className="text-white/40 text-sm text-center mt-1">
               Your recent searches will appear here

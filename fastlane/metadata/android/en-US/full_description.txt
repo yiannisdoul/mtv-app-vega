@@ -1,7 +1,8 @@
-Android app for streaming media.
+StreamFlix - Your ultimate streaming companion for Android.
 
-* Steam and Download Ad-Free.
-* Multiple sources.
-* Multi Audio and Subs (Hindi, English, etc.).
-* WatchList.
-* External player and Downloader support.
+* Stream and Download Ad-Free content
+* Multiple streaming sources
+* Multi Audio and Subtitle support (Hindi, English, etc.)
+* Personal WatchList management
+* External player and Downloader support
+* Beautiful, intuitive interface
