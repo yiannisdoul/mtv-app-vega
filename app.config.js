@@ -86,8 +86,8 @@ module.exports = () => {
 
   return {
     expo: {
-      name: 'Vega',
-      displayName: 'Vega',
+      name: 'StreamFlix',
+      displayName: 'StreamFlix',
       newArchEnabled: true,
       autolinking: {exclude: ['expo-splash-screen']},
       plugins,

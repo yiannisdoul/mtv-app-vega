@@ -1,9 +1,9 @@
-![vega-high-resolution-logo-transparent](https://github.com/Zenda-Cross/vega-app/assets/143804558/b2eb446f-8e7f-4800-81e1-3320c82f33de)
+# StreamFlix
 
-# Vega-App
-Android app for streaming media.
+StreamFlix - Your ultimate streaming companion for Android.
+
 ### Features
-- Steam and Download Ad-Free.
+- Stream and Download Ad-Free.
 - Multiple sources.
 - Multi Audio and Subs (Hindi, English, etc.).
 - WatchList.
@@ -15,7 +15,7 @@ Android app for streaming media.
 ___
 
 ## Download  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Zenda-Cross/vega-app/total?link=https%3A%2F%2Fgithub.com%2FZenda-Cross%2Fvega-app%2Freleases)
-> <sub>Download Universal version if you are confused about armeabi-v7a or arm64-v8a.</sub>
+> <sub>Download the Universal version if you're unsure about your device architecture.</sub>
 
 [![Download Apk](https://custom-icon-badges.demolab.com/badge/-Download_Apk-blue?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://github.com/Zenda-Cross/vega-app/releases/latest)
 

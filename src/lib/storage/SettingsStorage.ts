@@ -44,7 +44,7 @@ export enum SettingsKeys {
 export class SettingsStorage {
   // Theme settings
   getPrimaryColor(): string {
-    return mainStorage.getString(SettingsKeys.PRIMARY_COLOR) || '#FF6347';
+    return mainStorage.getString(SettingsKeys.PRIMARY_COLOR) || '#6366F1';
   }
 
   setPrimaryColor(color: string): void {
@@ -60,7 +60,7 @@ export class SettingsStorage {
   }
 
   getCustomColor(): string {
-    return mainStorage.getString(SettingsKeys.CUSTOM_COLOR) || '#FF6347';
+    return mainStorage.getString(SettingsKeys.CUSTOM_COLOR) || '#6366F1';
   }
 
   setCustomColor(color: string): void {

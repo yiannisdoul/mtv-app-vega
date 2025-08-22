@@ -11,8 +11,8 @@ export const downloadFolder = RNFS.DownloadDirectoryPath + '/vega';
 
 export const themes: {name: string; color: string}[] = [
   {
-    name: 'Vega',
-    color: '#FF6347',
+    name: 'StreamFlix',
+    color: '#6366F1',
   },
   {
     name: 'Hayasaka',
